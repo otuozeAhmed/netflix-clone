@@ -1,5 +1,5 @@
-### A minimal Netflix-clone project for IDL Education
+## A minimal Netflix-clone project demo for IDL Education
 
-# Run "npm install" or "yarn install"
+### Run "npm install" or "yarn install"
 
-# Run "npm start" or "yarn start"
+### Run "npm start" or "yarn start"
